@@ -1,5 +1,5 @@
-# name = input('What is your name?\n')	 
-# print(">>>>",name)
+name = input('What is your name?\n')	 
+print(">>>>",name)
 
 # for i in range(1, 13):
 # 	first = i*2
